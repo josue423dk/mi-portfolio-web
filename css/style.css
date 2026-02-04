@@ -7,18 +7,19 @@ body {
 }
 
 .seccion_header {
-    background-color: #ffffff; 
-    padding: 15px 0;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 20px 0;
+    box-shadow: 0 4px 15px rgba(24, 5, 1, 0.15);
+    border-bottom: 3px solid rgba(248, 124, 99, 1);
 }
 
 .seccion_header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: flex;            
-    justify-content: center;  
-    gap: 40px;                
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 }
 
 .menu_item {
