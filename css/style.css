@@ -31,17 +31,16 @@ body {
     transition: 0.3s;
 }
 
+.menu_item:hover {
+    color: rgba(245, 73, 39, 1);
+}
+
 .main {
     font-size: 5rem;
     font-weight: 800;
     color: rgba(24, 5, 1, 1);
     margin-top: 80px;
     margin-bottom: 10px;
-}
-.main {
-    font-size: 3rem;
-    color: #000;
-    margin-bottom: 20px;
 }
 
 .intro_text {
