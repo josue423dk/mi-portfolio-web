@@ -2,8 +2,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #1fffa2; 
-    text-align: center;       
+    background-color: rgba(254, 235, 231, 1);
+    text-align: center;
 }
 
 .seccion_header {
@@ -34,7 +34,14 @@ body {
     color: #ff4500;          
 }
 
-h1 {
-    margin-top: 50px;
-    color: #333;
+.main {
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.intro_text {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: #222;
 }
